@@ -1,0 +1,7 @@
+Számításos lap
+Felhasználó neve: asd 
+Bekért szám: 10
+Tripla: 20
+Dupla: 30
+
+Kelt: Szeged,2021.12.15

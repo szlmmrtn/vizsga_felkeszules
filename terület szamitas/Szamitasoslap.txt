@@ -1,0 +1,8 @@
+Számításos lap
+felhasználó neve: Gipsz jakab
+Egyik oldal hossza: 4
+felhasználó neve: 5
+Kerület: 18 m
+Terület: 20 m2
+
+kelt: Szeged, 2022-01-03 00:00:00
