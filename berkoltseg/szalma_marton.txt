@@ -1,0 +1,6 @@
+Bérköltség lap
+Nettó bér: 50000.0.0 Ft
+Diák bérköltség: 57499.99999999999.0 Ft
+Rendes munkaviszony bérköltség: 91500.0.0 Ft
+
+Kelt: Szeged, 2021/11/30
